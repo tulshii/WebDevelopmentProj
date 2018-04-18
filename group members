@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Group Website</title>
+	</head>
+	<body>
+	<hl>Group Members</hl>
+	<hr/>
+	<center>
+	<ul>Tulshi Patel</ul>
+	<li>Gianna Joy</li>
+	<li>John Odhiambo</li>
+	<li>Jackson </li>
+	</center>
+	
+	</body>
+</html>
