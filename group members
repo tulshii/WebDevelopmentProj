@@ -4,13 +4,15 @@
 		<title>My Group Website</title>
 	</head>
 	<body>
+	<center>
 	<hl>Group Members</hl>
+	</center>
 	<hr/>
 	<center>
 	<ul>Tulshi Patel</ul>
-	<li>Gianna Joy</li>
-	<li>John Odhiambo</li>
-	<li>Jackson </li>
+	<ul>Gianna Joy</ul>
+	<ul>John Odhiambo</ul>
+	<ul>Jackson </ul>
 	</center>
 	
 	</body>
